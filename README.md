@@ -2,6 +2,8 @@
 
 Shopify landing page built using Tailwind CSS. It's responsive too!.
 
+[🌐 Live Preview](https://shopify-landing-page-mu.vercel.app/)
+
 ![Cover](./cover.png)
 
 ## Snapshots
